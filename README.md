@@ -1,6 +1,6 @@
 ![MasterHead](images/github_banner.jpeg)
 
-[![ClassyAJ's GitHub stats](https://github-readme-stats-opal-one-45.vercel.app/api?username=classyaj)](https://github.com/ClassyAJ/github-readme-stats)
+[![ClassyAJ's GitHub stats](https://github-readme-stats-opal-one-45.vercel.app/api?username=ClassyAJ)](https://github.com/ClassyAJ/github-readme-stats)
 
 <table>
   <tr>
