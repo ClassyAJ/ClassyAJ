@@ -33,7 +33,7 @@ class ClassyAJ:
             cls._instance.role = "Cloud Compute Engineer"
             cls._instance.employer = "STACKIT"
             cls._instance.the_not_so_important_languages = ["de", "en"]
-            cls._instance.the_not_so_important_languages = ["python", "typescript"]
+            cls._instance.languages = ["python", "typescript", "go"]
             cls._instance.specialities = ["FastAPI🧡", "cli ui/ux", "pandas", "design patterns", "backend"]
             cls._instance.about_me = {
                 "what_i_enjoy": "playing catch with my son",
